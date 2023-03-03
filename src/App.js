@@ -8,7 +8,7 @@ function App() {
         <div className='App'>
             {/* child component */}
             <Navbar />
-            {/* <Modal message='Are you sure?' /> */}
+            <Modal message='Are you sure?' />
         </div>
     );
 }
